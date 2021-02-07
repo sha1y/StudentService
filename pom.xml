@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tcs.co.in</groupId>
-	<artifactId>H2Db</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>H2Db</name>
+	<artifactId>student-service</artifactId>
+	<version>1.0.0</version>
+	<name>student-service</name>
 	<description>Demo project for Spring Boot h2 Database</description>
 
 	<properties>
